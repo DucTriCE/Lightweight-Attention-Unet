@@ -1,0 +1,8 @@
+-----DSAU
+Total Param:  24416
+full:  torch.Size([1, 2, 184, 320])
+half:  torch.Size([1, 2, 96, 176])
+-----AU
+Total Param:  128594
+full:  torch.Size([1, 2, 184, 320])
+half:  torch.Size([1, 2, 96, 176])
